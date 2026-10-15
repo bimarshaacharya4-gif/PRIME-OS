@@ -1,0 +1,8 @@
+{
+  "name": "prime-os",
+  "version": "1.0.0",
+  "description": "PRIME OS — personal productivity and discipline desktop app",
+  "main": "main.js",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^38.2.0" }
+}
